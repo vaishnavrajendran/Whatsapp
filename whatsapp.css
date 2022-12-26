@@ -1,0 +1,312 @@
+.topbar{
+    background-color:#128c7e;
+    width: 100%;
+    height: 91px;
+    position: fixed;
+ 
+}
+.topbar a{
+    text-decoration: none;
+    color: #fff;
+}
+.whatsapplogo{
+    float: left;
+    margin-top: 25px;
+    margin-left: 200px;
+    width: 40px;
+    height: 40px;
+}
+body{
+    margin: 0%;
+}
+.whatsappweb{
+    float:left;
+    color: white;
+    margin-left: 140px;
+    margin-top: 35px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+.features{
+    float:left;
+    color: white;
+    margin-left: 50px;
+    margin-top: 35px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+.download{
+    float:left;
+    color: white;
+    margin-left: 50px;
+    margin-top: 35px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+.whatsapptext{
+    float:left;
+    color: white;
+    margin-left: 10px;
+    margin-top: 30px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.privacy{
+    float:left;
+    color: white;
+    margin-left: 50px;
+    margin-top: 35px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+.helpcenter{
+    float:left;
+    color: white;
+    margin-left: 50px;
+    margin-top: 35px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+.body{
+    background-color:white;
+    width: 100%;
+    height: 1900px;
+    padding-top: 100px;
+    
+}
+.details{
+    width: 394px;
+    height: 274px;
+    margin-top: 126px;
+    margin-left: 366px;
+    float: left;
+
+}
+.line1{
+    font-size: 30px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-block-end: 0em;
+}
+.line2{
+    font-size: 30px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 10px;
+    float: left;
+    margin-block-end: 0.5em;
+}
+.line3{
+    float: left;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    margin-block-end: 0.5em;
+    line-height: 28px;
+}
+.line4{
+    float: left;
+    color: #5e5e5e;
+    font-size: 17px;
+}
+.phonepic{
+    width: 300px;
+    height: 550px;
+    float: left;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+.ashbody{
+    width: 704px;
+    height: 897px;
+    background-color: #d8e8ea;
+    float: left;
+    margin-top: 75px;
+    margin-left: 45px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.ashbodyline1{
+    margin-top: 80px;
+    font-size: 34px;
+    font-weight: bolder;
+    text-align: center;
+    color: #1c1e21;
+}
+.ashbodyline2{
+    margin-top: 40px;
+    text-align:center;
+    font-size: 18px;
+    letter-spacing: normal;
+    line-height: 28px;
+}
+.ashbodyline3{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 18px;
+    line-height: 28px;
+    
+}
+.catalog{
+    float: left;
+    margin-top: 69px;
+    width: 380px;
+    margin-left: 162px;
+}
+.lightbody{
+    width: 704px;
+    height: 897px;
+    float: left;
+    background-color: #e7f0e4;
+    margin-top: 75px;
+    margin-left: 40px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.whatsappgif{
+    margin-left: 155px;
+}.lightbodyline1{
+    text-align: center;
+    color: #5e5e5e;
+    font-size: 16px;
+    letter-spacing: 2.4px;
+    line-height: 34px;
+    font-weight: bolder;
+}
+.lightbodyline2{
+    text-align: center;
+    line-height: 16.08px;
+    font-size: 30px;
+    color: black;
+    font-weight: bolder;
+}
+.lightbodyline3{
+    text-align: center;
+    font-size: 18px;
+    line-height: 28px;
+}
+h1{
+    margin-top: 90px;
+    float: left;
+    margin-left: 650px;
+    border-radius: 30px;
+    border-color: #128c7e;
+    border-style: solid;
+    border-width: 2px;
+    padding: 20px;
+    font-size: larger;
+    font-weight: lighter;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #128c7e;
+    
+}
+
+
+.footer-container{
+    background-color: #273443;
+    width: 100%;
+    height: 341px;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
+
+    
+}
+.footer{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.footer-heading-1{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin-right: 11em;
+    margin-top: 40px;
+    
+}
+.footer-heading-2{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin-right: 11em;
+    margin-top: 40px;
+}
+.footer-heading-3{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin-right: 11em;
+    margin-top: 40px;
+}
+.footer-heading-4{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin-right: 11em;
+    margin-top: 40px;
+}
+.footer-container a{
+    color: #fff;
+    text-decoration: none;
+    margin-bottom: 00.5em;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.5;
+}
+.footer-container p{
+    font-size: 17px;
+}
+.select{
+    background-color: #128c7e;
+    color: #fff;
+    font-size: 16px;
+    margin-left: 50px;
+    margin-top: 35px;
+    border-color: #128c7e;
+    width: 50px;
+}
+.logos{
+    width: 500px;
+    height: 300px;
+    background-color: #fff;
+    margin-top: 430px;
+    margin-left: 300px;    
+    
+}
+
+.androidimg{
+    width: 25px;
+    height: 25px;
+    margin-left: 50px;
+    float: left;
+    margin-top: -123px;  
+}
+
+.logos p{
+    color: #128c7e;
+    font-size: large;
+    font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.android1{
+    float: left;
+    margin-left: 110px;
+    margin-top: -118px;
+}
+.iphone{
+    float: left;
+    margin-left: 110px;
+    margin-top: -58px;
+}
+.pc{
+    margin-left: 110px;
+    
+}
+.apple1{
+    width: 25px;
+    height: 25px;
+    float: left;
+    margin-left: 50px;
+    margin-top: -64px;
+}
+.windows{
+    width: 25px;
+    height: 25px;
+    float: left;margin-left: 49px;
+}
